@@ -9,19 +9,23 @@
 	<key>CFBundleIconFile</key>
 	<string>Caffeine.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.lightheadsw.Caffeine</string>
+	<string>com.lightheadsw.caffeine</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>Caffeine</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1.1</string>
 	<key>CFBundleSignature</key>
 	<string>LCaf</string>
 	<key>CFBundleVersion</key>
 	<string>1.1.1</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.5</string>
+	<string>10.6</string>
 	<key>LSUIElement</key>
 	<string>1</string>
 	<key>NSAppleScriptEnabled</key>
